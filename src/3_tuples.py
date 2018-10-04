@@ -82,8 +82,3 @@ print(astridInMyDict)
 myDictKeys = myDictionary1.keys()
 print('My dict keys:')
 print(myDictKeys)
-
-
-
-
-
