@@ -1,3 +1,4 @@
+# coding=utf-8
 
 # this is the application's entry point
 print('src/2_strings.py being invoked')
@@ -63,12 +64,12 @@ print('Possible String methods:')
 print(dir(myString6))
 
 # help for a function
-help(myString6.capitalize)
+# help(myString6.capitalize)
 
 # introspect an object
-print('Type of myString6:')
-print(type(myString6))
+# print('Type of myString6:')
+# print(type(myString6))
 
 # second character of test string 6
-print('Fourth character of myString6:')
-print(myString6[3])
+# print('Fourth character of myString6:')
+# print(myString6[3])
