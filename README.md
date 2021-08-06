@@ -3,5 +3,5 @@ Get to know some basics of the Python programming language.
 
 ## Run
 ```
-python 2_strings.py
+python 1_hello_world.py
 ```
